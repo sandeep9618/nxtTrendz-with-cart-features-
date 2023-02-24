@@ -1,0 +1,13 @@
+.cart-list {
+  padding-left: 0px;
+}
+.remove-all-btn {
+  background-color: transparent;
+  color: rgb(0, 140, 255);
+  border: 0px;
+  align-self: flex-end;
+  font-weight: 600;
+  font-size: 18px;
+  cursor: pointer;
+  outline: none;
+}

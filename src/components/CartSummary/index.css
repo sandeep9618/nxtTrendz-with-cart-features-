@@ -1,0 +1,22 @@
+.total-amount {
+  font-size: 26px;
+  font-family: Roboto;
+  font-weight: 600;
+}
+.order-total {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Roboto;
+}
+.cart-summary-container {
+  align-self: flex-end;
+}
+.checkout-btn {
+  color: white;
+  background-color: blue;
+  border: 0px;
+  border-radius: 6px;
+  padding: 9px;
+  width: 100%;
+  cursor: pointer;
+}
